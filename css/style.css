@@ -67,4 +67,27 @@ article a {
   text-align: center;
   color: black;
   font-size: 14px;
+  background: red;
+}
+
+article a:hover{
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 765px) {
+
+  .pickup{
+    display: block;
+  }
+
+
+
 }
