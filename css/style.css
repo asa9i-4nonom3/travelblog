@@ -286,6 +286,10 @@ footer p {
   border-bottom: solid 1px #777;
 }
 
+.twitter-timeline{
+  font-size: 14px;
+}
+
 small {
   display: block;
   text-align: center;
