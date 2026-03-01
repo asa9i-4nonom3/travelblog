@@ -320,6 +320,7 @@ small {
   .side {
     padding: 0;
     width: 100%;
+    margin-bottom: 120px;
   }
 
   .footer-item {
