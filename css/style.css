@@ -82,9 +82,6 @@ h1 {
 
 .menu {
   width: 100%;
-}
-
-.menu {
   background: #333;
 }
 
@@ -300,6 +297,10 @@ small {
 
 
 @media (max-width: 765px) {
+
+  .menu {
+    overflow-x: scroll;
+  }
 
   .pickup {
     display: block;
