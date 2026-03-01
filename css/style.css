@@ -136,9 +136,7 @@ h2 {
   font-size: 14px;
 }
 
-article a {
-  /* background: red; */
-}
+
 
 
 /* main */
@@ -309,11 +307,13 @@ small {
 
   .contents {
     display: block;
+    padding: 0 16px;
+    gap: 0;
   }
-
 
   main {
     width: 100%;
+    padding: 0;
   }
 
 
